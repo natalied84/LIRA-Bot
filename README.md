@@ -1,5 +1,45 @@
 # LIRI Bot
 
+###Introduction
+
+The intent of this homework is to build skills using Node.js, various packages from NPM, as well as Javascript in general. The aim is to build a simple command line version of Siri named Liri. Various commands can be given to Liri via terminal to which liri will respond.
+
+###Technologies
+
+Node.js, Axios, Moment.js, Spotify API, OMDB API, Bands in Town API, FS, Inquirer, Open Trivia DB API (https://opentdb.com/api_config.php), LibInsult (https://insult.mattbas.org/), quotesondesign API (http://quotesondesign.com)
+
+###Features
+
+-User is able to query Bands in Town via concert-this command to search if bands have upcoming shows
+
+-User is able to query song info from Spotify via the spotify-this-song command
+
+-User is able to query movie info from OMDB via the movie-this command
+
+-Liri is able to give random facts via the random-fact command
+
+-Liri is able to insult the user via the insult-me command
+
+-Liri is able to give random quotes via the quote-me command
+
+-A random command can be given via the do-what-it-says command
+
+-A log of all commands given as well as the results given is continually created
+
+####Features I'd like to add
+
+-Some sort of weather API
+
+-A super basic front-end interface
+
+-more sass
+
+######Link to see Liri in action!!
+
+https://drive.google.com/file/d/1D3U7Lim9vvv1XtI1FUFOBy81HhXkKFn7/view
+
+#####Assignment Instructions Below
+
 ### Overview
 
 In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
