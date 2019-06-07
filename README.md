@@ -1,14 +1,14 @@
 # LIRI Bot
 
-###Introduction
+### Introduction
 
 The intent of this homework is to build skills using Node.js, various packages from NPM, as well as Javascript in general. The aim is to build a simple command line version of Siri named Liri. Various commands can be given to Liri via terminal to which liri will respond.
 
-###Technologies
+### Technologies
 
 Node.js, Axios, Moment.js, Spotify API, OMDB API, Bands in Town API, FS, Inquirer, Open Trivia DB API (https://opentdb.com/api_config.php), LibInsult (https://insult.mattbas.org/), quotesondesign API (http://quotesondesign.com)
 
-###Features
+### Features
 
 -User is able to query Bands in Town via concert-this command to search if bands have upcoming shows
 
@@ -26,7 +26,7 @@ Node.js, Axios, Moment.js, Spotify API, OMDB API, Bands in Town API, FS, Inquire
 
 -A log of all commands given as well as the results given is continually created
 
-####Features I'd like to add
+#### Features I'd like to add
 
 -Some sort of weather API
 
@@ -34,11 +34,11 @@ Node.js, Axios, Moment.js, Spotify API, OMDB API, Bands in Town API, FS, Inquire
 
 -more sass
 
-######Link to see Liri in action!!
+###### Link to see Liri in action!!
 
 https://drive.google.com/file/d/1D3U7Lim9vvv1XtI1FUFOBy81HhXkKFn7/view
 
-#####Assignment Instructions Below
+##### Assignment Instructions Below
 
 ### Overview
 

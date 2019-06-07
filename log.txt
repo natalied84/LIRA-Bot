@@ -107,3 +107,9 @@ Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 concert-this
 You didn't specify a band!
 ----------------
+insult-me
+You are as grotesque as a corrupt zillion of dreadful lesser monkey urine
+----------------
+insult-me
+You are as slimy as an insignificant noxious terrible fuckton of atrocious craptacular cockroach excretions
+----------------
